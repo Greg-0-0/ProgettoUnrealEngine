@@ -1,0 +1,49 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Map/MainMap.umap",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Materials/Dynamic_material.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Blueprints/BP_Tile.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Materials/Obstacle_texture_1.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Blueprints/BP_Obstacle.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Blueprints/GameField.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Texture/Mountain.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Texture/Soldier2_Blue.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Materials/Mask_material1.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Materials/Obstacle_texture_2.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Blueprints/BP_HBrawlerUnit.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Texture/Soldier1_Blue.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Materials/Mask_material2.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Blueprints/BP_HSniperUnit.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Texture/Soldier2_Red.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Texture/Soldier1_Red.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Materials/Mask_material3.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Materials/Mask_material4.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Blueprints/BP_AIBrawlerUnit.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Blueprints/BP_AISniperUnit.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Blueprints/BP_SC_GameMode.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Blueprints/BP_gamefield.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Input/IA_left_click.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Input/IMC_SG.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Blueprints/BP_SG_PlayerController.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Input/IMC_SG_2.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Blueprints/BP_Tile1.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Blueprints/BP_AIBrawler.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Blueprints/BP_AISniper.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Blueprints/BP_HBrawler.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Blueprints/BP_HSniper.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Blueprints/BP_SG_HUD.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Blueprints/BP_SG_Menu.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Blueprints/BP_BrawlerUnit.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Materials/Mountain.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/Materials/Mask_material.uasset",
+				"C:/Users/gregd/Documents/Unreal_Projects/StrategicGame_1/Content/NewMap.umap"
+			]
+		}
+	]
+}
